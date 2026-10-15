@@ -1,0 +1,13 @@
+{
+  "name": "Помощник трейдера",
+  "short_name": "Трейдер",
+  "start_url": "trading.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#03110b",
+  "theme_color": "#03110b",
+  "lang": "ru",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
